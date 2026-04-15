@@ -133,7 +133,7 @@
 ## 🐍 Contribution Snake
 
 <div align="center">
-  <img src="https://github.com/prasanth-selva/prasanth-selva/blob/output/github-contribution-grid-snake-dark.svg" alt="snake" />
+  <img src="https://raw.githubusercontent.com/prasanth-selva/prasanth-selva/output/github-contribution-grid-snake-dark.svg" alt="snake" />
 </div>
 
 ---
