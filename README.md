@@ -4,7 +4,7 @@
 <img src="https://capsule-render.vercel.app/api?type=venom&color=0:000000,30:0d1117,60:00ff41,100:00b4d8&height=220&section=header&text=PRASANTH%20S&fontSize=60&fontColor=00ff41&animation=fadeIn&fontAlignY=40&desc=Cybersecurity%20Analyst%20%7C%20Full-Stack%20Developer&descAlignY=62&descAlign=50&descSize=18&descColor=00b4d8&stroke=00ff41&strokeWidth=2" />
 
 <!-- ANIMATED TYPING -->
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2500&pause=800&color=00FF41&center=true&vCenter=true&multiline=false&random=false&width=600&lines=🛡️+Cybersecurity+Analyst+%40+Metazord;🏆+Top+50+Nationally+—+CTF+Mar+2026;🤖+AI+%2F+ML+Security+%7C+SOC+Operations;🌐+Full-Stack+Dev+%7C+FastAPI+%7C+React+%7C+Next.js;🔍+Network+Threat+Detection+%7C+Anomaly+ML" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2500&pause=800&color=00FF41&center=true&vCenter=true&multiline=false&random=false&width=700&lines=Cybersecurity+Analyst+at+Metazord;Top+50+National+CTF+Mar+2026;AI%2FML+Security+and+SOC+Operations;Full-Stack+Dev+FastAPI+React+Next.js;Network+Threat+Detection+and+Anomaly+ML" alt="Typing SVG" />
 
 <br/>
 
@@ -104,20 +104,20 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=prasanth-selva&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=00ff41&icon_color=00b4d8&text_color=c9d1d9"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prasanth-selva&layout=compact&langs_count=8&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff41&text_color=c9d1d9"/>
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=prasanth-selva&theme=github_dark"/>
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=prasanth-selva&theme=github_dark"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=prasanth-selva&theme=dark&hide_border=true&background=0d1117&ring=00ff41&fire=00b4d8&currStreakLabel=00ff41" />
+  <img src="https://streak-stats.demolab.com?user=prasanth-selva&theme=highcontrast&hide_border=true&background=0d1117&ring=00ff41&fire=00b4d8&currStreakLabel=00ff41" />
 </div>
 
 ---
 
-## 🏆 GitHub Trophies
+## 🧾 Activity Overview
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=prasanth-selva&theme=matrix&no-frame=true&no-bg=true&margin-w=6&row=1&column=7" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=prasanth-selva&theme=github_dark" />
 </div>
 
 ---
@@ -133,7 +133,7 @@
 ## 🐍 Contribution Snake
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/prasanth-selva/prasanth-selva/output/github-contribution-grid-snake-dark.svg" alt="snake" />
+  <img src="https://raw.githubusercontent.com/prasanth-selva/prasanth-selva/output/github-contribution-grid-snake-dark.svg?v=20260415" alt="snake" />
 </div>
 
 ---
