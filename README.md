@@ -109,7 +109,7 @@
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=prasanth-selva&theme=highcontrast&hide_border=true&background=0d1117&ring=00ff41&fire=00b4d8&currStreakLabel=00ff41" />
+  <img src="https://streak-stats.demolab.com?user=prasanth-selva&theme=highcontrast&hide_border=true&background=0d1117&ring=00ff41&fire=00b4d8&currStreakLabel=00ff41&hide_total_contributions=true" />
 </div>
 
 ---
