@@ -61,15 +61,18 @@ I’ve worked across a SOC, a cybercrime police station, and a product startup. 
 
 ## `04 // SELECTED BUILDS`
 
-| Security & systems | Product & 3D experiences |
-| :-- | :-- |
-| [Auth Hydra — authentication security testing](https://prasanths-portfolio.vercel.app/projects/auth-hydra) | [LYWARO — interactive 3D e-commerce](https://prasanths-portfolio.vercel.app/projects/lywaro-3d-ecommerce) |
-| [Container Ghost — Docker debugging benchmark](https://prasanths-portfolio.vercel.app/projects/container-ghost) | [Bugatti Chiron — Anatomy of Speed](https://prasanths-portfolio.vercel.app/projects/bugatti-chiron-3d) |
-| [DDoS Mitigation & Traffic Defense](https://prasanths-portfolio.vercel.app/projects/ddos-mitigation) | [Porsche — automotive web experience](https://prasanths-portfolio.vercel.app/projects/porsche-automotive-experience) |
-| [Adversarial Testing & Red Teaming](https://prasanths-portfolio.vercel.app/projects/adversarial-testing-red-teaming) | [BMW — interactive automotive showcase](https://prasanths-portfolio.vercel.app/projects/bmw-automotive-showcase) |
-| [MediCore — AI hospital management](https://prasanths-portfolio.vercel.app/projects/medicore-hospital-management) | [Koenigsegg — immersive 3D experience](https://prasanths-portfolio.vercel.app/projects/koenigsegg-3d-experience) |
+<div align="center">
 
-[View the complete project archive →](https://prasanths-portfolio.vercel.app/#projects)
+<a href="https://prasanths-portfolio.vercel.app/projects/auth-hydra"><img src="assets/project-auth.svg" width="48%" alt="Auth Hydra — authentication security testing"/></a>
+<a href="https://prasanths-portfolio.vercel.app/projects/container-ghost"><img src="assets/project-ghost.svg" width="48%" alt="Container Ghost — Docker debugging benchmark"/></a>
+<a href="https://prasanths-portfolio.vercel.app/projects/ddos-mitigation"><img src="assets/project-ddos.svg" width="48%" alt="DDoS Mitigation — traffic defense study"/></a>
+<a href="https://prasanths-portfolio.vercel.app/projects/lywaro-3d-ecommerce"><img src="assets/project-lywaro.svg" width="48%" alt="LYWARO 3D — interactive e-commerce"/></a>
+<a href="https://prasanths-portfolio.vercel.app/projects/bugatti-chiron-3d"><img src="assets/project-bugatti.svg" width="48%" alt="Bugatti Chiron — Anatomy of Speed"/></a>
+<a href="https://prasanths-portfolio.vercel.app/projects/medicore-hospital-management"><img src="assets/project-medicore.svg" width="48%" alt="MediCore — AI hospital management"/></a>
+
+**[OPEN THE COMPLETE PROJECT ARCHIVE →](https://prasanths-portfolio.vercel.app/#projects)**
+
+</div>
 
 ## `05 // BUG BOUNTY LAB`
 
@@ -84,6 +87,11 @@ My testing lens is built around **access control**, **authentication and session
 ## `06 // SIGNALS`
 
 <div align="center">
+
+<img src="https://img.shields.io/badge/STATUS-RESEARCHING_·_BUILDING_·_LEARNING-00ff95?style=for-the-badge&labelColor=071014" alt="Current status"/>
+<img src="https://img.shields.io/badge/FOCUS-WEB_SECURITY_·_VAPT_·_SOC-00d9ff?style=for-the-badge&labelColor=071014" alt="Current focus"/>
+
+
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=prasanth-selva&theme=github_dark" height="170" alt="GitHub statistics"/>
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=prasanth-selva&theme=github_dark" height="170" alt="Most used languages"/>
 <br/>

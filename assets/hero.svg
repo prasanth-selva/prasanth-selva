@@ -1,34 +1,49 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1400 430" role="img" aria-labelledby="title desc">
-  <title id="title">Prasanth S — Cybersecurity Engineer</title>
-  <desc id="desc">A dark 3D cyber security command-center banner with a neon green shield and cyan network grid.</desc>
-  <defs>
-    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#05070c"/><stop offset=".55" stop-color="#07151b"/><stop offset="1" stop-color="#020504"/></linearGradient>
-    <linearGradient id="glow" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#00ff88"/><stop offset="1" stop-color="#00b8ff"/></linearGradient>
-    <linearGradient id="shield" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#071d20"/><stop offset=".5" stop-color="#0c5f55"/><stop offset="1" stop-color="#00ff88"/></linearGradient>
-    <filter id="blur"><feGaussianBlur stdDeviation="18"/></filter>
-    <filter id="soft"><feGaussianBlur stdDeviation="5"/></filter>
-    <pattern id="grid" width="55" height="55" patternUnits="userSpaceOnUse" patternTransform="skewY(-18)"><path d="M55 0H0V55" fill="none" stroke="#00d9a520" stroke-width="1"/></pattern>
-  </defs>
-  <rect width="1400" height="430" fill="url(#bg)" rx="24"/>
-  <ellipse cx="1070" cy="205" rx="330" ry="220" fill="#00ff8820" filter="url(#blur)"/>
-  <path d="M0 325 230 270 520 305 810 232 1080 275 1400 185V430H0Z" fill="url(#grid)" opacity=".92"/>
-  <path d="M0 325 230 270 520 305 810 232 1080 275 1400 185" fill="none" stroke="#00d9a050" stroke-width="2"/>
-  <g font-family="ui-monospace,SFMono-Regular,Menlo,monospace">
-    <text x="86" y="88" fill="#7fffd4" font-size="17" letter-spacing="5">PRASANTH.SELVA // SECURITY LAB</text>
-    <text x="82" y="175" fill="#f3fff9" font-size="64" font-weight="700" letter-spacing="-2">Cybersecurity</text>
-    <text x="84" y="244" fill="#00ff88" font-size="64" font-weight="700" letter-spacing="-2">Engineer.</text>
-    <text x="87" y="286" fill="#99b9b1" font-size="18">VAPT · WEB APP SECURITY · BUG BOUNTY · SOC / DETECTION</text>
-    <text x="87" y="342" fill="#5ef2c0" font-size="14" letter-spacing="2">AUTHORIZED RESEARCH  /  BUILDING USEFUL DEFENSES</text>
-    <text x="87" y="380" fill="#51746d" font-size="13">COIMBATORE, INDIA  •  OPEN TO SECURITY ENGINEERING ROLES</text>
-  </g>
-  <g transform="translate(1090 214)">
-    <circle r="136" fill="#00ff8810" stroke="#00ff8840" stroke-width="1"/>
-    <circle r="105" fill="none" stroke="#00cfff55" stroke-width="1" stroke-dasharray="5 10"/>
-    <path d="M0-86 78-55 66 37 0 91-66 37-78-55Z" fill="url(#shield)" stroke="#a2ffe5" stroke-width="2"/>
-    <path d="M0-59 52-38 44 26 0 62-44 26-52-38Z" fill="#031014" stroke="#00ff88" stroke-width="2"/>
-    <path d="M-24 0  -5 20 31-24" fill="none" stroke="#00ff88" stroke-width="10" stroke-linecap="round" stroke-linejoin="round"/>
-    <path d="M-126-19H-91M91 38H129M-29-129V-94M42 91V126" stroke="#00d9ff" stroke-width="3"/>
-    <circle cx="-126" cy="-19" r="4" fill="#00d9ff"/><circle cx="129" cy="38" r="4" fill="#00ff88"/>
-  </g>
-  <path d="M45 26H1355" stroke="#00ff88" stroke-opacity=".35"/><path d="M45 402H1355" stroke="#00b8ff" stroke-opacity=".25"/>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 560" role="img" aria-labelledby="title desc">
+<title id="title">Prasanth S — Cybersecurity Engineer</title><desc id="desc">Cinematic 3D cyber command center with a glowing shield, holographic security panels, grid floor, and neon green and cyan lighting.</desc>
+<defs>
+ <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#02050a"/><stop offset=".45" stop-color="#071820"/><stop offset="1" stop-color="#010403"/></linearGradient>
+ <linearGradient id="floor" x1="0" y1="0" x2="0" y2="1"><stop stop-color="#0d332e" stop-opacity=".5"/><stop offset="1" stop-color="#020604"/></linearGradient>
+ <linearGradient id="neon" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#00ff95"/><stop offset=".5" stop-color="#00d9ff"/><stop offset="1" stop-color="#7c5cff"/></linearGradient>
+ <linearGradient id="glass" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#0c3a40" stop-opacity=".76"/><stop offset="1" stop-color="#061315" stop-opacity=".35"/></linearGradient>
+ <filter id="blur"><feGaussianBlur stdDeviation="30"/></filter><filter id="glow"><feGaussianBlur stdDeviation="7"/></filter>
+ <pattern id="grid" width="48" height="48" patternUnits="userSpaceOnUse"><path d="M48 0H0V48" fill="none" stroke="#00e6b61d"/></pattern>
+ <pattern id="tiny" width="18" height="18" patternUnits="userSpaceOnUse"><path d="M18 0H0V18" fill="none" stroke="#00ccff14"/></pattern>
+</defs>
+<rect width="1600" height="560" rx="26" fill="url(#bg)"/>
+<ellipse cx="1190" cy="210" rx="440" ry="300" fill="#00ff9518" filter="url(#blur)"/>
+<ellipse cx="530" cy="510" rx="520" ry="110" fill="#00d9ff16" filter="url(#blur)"/>
+<path d="M0 370 280 292 615 346 925 272 1270 332 1600 218V560H0Z" fill="url(#floor)"/>
+<path d="M0 370 280 292 615 346 925 272 1270 332 1600 218V560H0Z" fill="url(#grid)" opacity=".95"/>
+<path d="M0 370 280 292 615 346 925 272 1270 332 1600 218" fill="none" stroke="#00ff9560" stroke-width="2"/>
+<!-- holographic side panel -->
+<g transform="translate(1010 58) skewY(-5)">
+ <rect width="360" height="184" rx="12" fill="url(#glass)" stroke="#00d9ff70"/>
+ <text x="24" y="31" fill="#70ffe0" font-family="monospace" font-size="12" letter-spacing="2">LIVE SECURITY TELEMETRY</text>
+ <path d="M24 148 69 132 102 142 153 87 190 112 236 66 278 88 332 42" fill="none" stroke="#00ff95" stroke-width="3"/>
+ <path d="M24 148 69 132 102 142 153 87 190 112 236 66 278 88 332 42V160H24Z" fill="#00ff9520"/>
+ <circle cx="236" cy="66" r="6" fill="#fff"/><text x="24" y="169" fill="#7ea9a1" font-family="monospace" font-size="11">AUTH  OK   ·   API  MONITORED   ·   99.8%</text>
+</g>
+<!-- left terminal panel -->
+<g transform="translate(94 330) skewY(7)">
+ <rect width="480" height="135" rx="12" fill="#020908c9" stroke="#00ff8860"/>
+ <circle cx="24" cy="22" r="5" fill="#ff4d6d"/><circle cx="42" cy="22" r="5" fill="#ffd166"/><circle cx="60" cy="22" r="5" fill="#00ff95"/>
+ <g font-family="monospace" font-size="13"><text x="25" y="55" fill="#00ff95">prasanth@security-lab:~$</text><text x="25" y="79" fill="#b8fff0">recon --target in-scope</text><text x="25" y="103" fill="#55bfb0">[+] surface mapped  [✓] access controlled</text><text x="25" y="124" fill="#00d9ff">ready_for_validation.exe</text></g>
+</g>
+<!-- main copy -->
+<g font-family="ui-monospace,SFMono-Regular,Menlo,monospace">
+ <text x="92" y="92" fill="#7fffe0" font-size="16" letter-spacing="6">PRASANTH.SELVA  /  SECURITY LAB  /  2026</text>
+ <text x="88" y="185" fill="#f0fff9" font-size="70" font-weight="700" letter-spacing="-3">Cybersecurity</text>
+ <text x="91" y="258" fill="url(#neon)" font-size="70" font-weight="700" letter-spacing="-3">Engineer.</text>
+ <text x="96" y="303" fill="#9abbb4" font-size="18">VAPT  ·  WEB APP SECURITY  ·  BUG BOUNTY  ·  SOC / DETECTION</text>
+ <text x="96" y="505" fill="#58efbf" font-size="13" letter-spacing="2">AUTHORIZED RESEARCH  /  DEFENSIVE MINDSET  /  BUILDER ENERGY</text>
+</g>
+<!-- central 3D shield -->
+<g transform="translate(1370 345)">
+ <circle r="150" fill="#00ff9510" stroke="#00ff9540"/><circle r="122" fill="none" stroke="#00d9ff4d" stroke-dasharray="5 10"/>
+ <path d="M0-112 102-73 86 50 0 117-86 50-102-73Z" fill="#00ff9520" stroke="#00ff95" stroke-width="3"/>
+ <path d="M0-82 73-55 62 34 0 83-62 34-73-55Z" fill="url(#glass)" stroke="#b6ffe8" stroke-width="2"/>
+ <path d="M-38 0-10 29 47-38" fill="none" stroke="#00ff95" stroke-width="13" stroke-linecap="round" stroke-linejoin="round"/>
+ <path d="M-150-25h42M108 58h42M-35-150v38M54 112v38" stroke="#00d9ff" stroke-width="4"/><circle cx="-150" cy="-25" r="5" fill="#00d9ff"/><circle cx="150" cy="58" r="5" fill="#00ff95"/>
+</g>
+<path d="M42 30H1558M42 530H1558" stroke="url(#neon)" stroke-opacity=".4"/><text x="1450" y="515" fill="#4f8980" font-family="monospace" font-size="11" text-anchor="end">COIMBATORE / INDIA</text>
 </svg>
